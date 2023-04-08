@@ -9,3 +9,6 @@ http://localhost:8765/currency-exchange/from/USD/to/INR
 
 API Gateway Currency Conversion
 http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/50
+
+INFO [currency-exchange,b49350d6da15cf30040b91bb8d0a0230,c696120f36ccd2f7] 1 --- 
+[nio-8000-exec-9] c.i.m.c.CurrencyExchangeController       : retrieveExchangeValue called with USD to INR
